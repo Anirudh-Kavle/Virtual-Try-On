@@ -1,6 +1,5 @@
 
-# Team NAMI | Virtual Try ON
-![Team NAMI](https://github.com/Megh-Zyke/Team_NAMI/blob/main/image.png)
+Virtual Try ON
 
 
 ## Overview
