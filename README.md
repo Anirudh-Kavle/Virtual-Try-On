@@ -1,5 +1,4 @@
-
-Virtual Try ON
+# Virtual Try ON
 
 
 ## Overview
@@ -17,10 +16,7 @@ This repository contains the implementation of VITON-HD, a high-resolution virtu
   - [Clone Repository](#clone-repository)
   - [Install Dependencies](#install-dependencies)
 - [Dataset](#dataset)
-- [Usage](#usage)
-- [References](#references)
-- [Contributing](#contributing)
-- [License](#license)
+- [Techniques used](#Techniques-used)
 
 ## Getting Started
 
